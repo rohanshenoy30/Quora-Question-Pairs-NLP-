@@ -1,6 +1,3 @@
-Sure! Here's a professional and clear README file template for your **Quora Question Pairs NLP** project, tailored for your Kaggle competition attempt:
-
----
 
 # Quora Question Pairs NLP
 
